@@ -1,0 +1,1 @@
+0) The script creates an alias. Name: ls and Value: rm *
